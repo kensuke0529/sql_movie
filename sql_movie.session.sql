@@ -1,1 +1,1 @@
-select * FROM actors limit 5;
+select * FROM actors limit 5; 
