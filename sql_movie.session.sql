@@ -1,1 +1,0 @@
-select * FROM actors limit 5; 
